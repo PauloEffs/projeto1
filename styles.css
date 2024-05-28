@@ -1,0 +1,208 @@
+main {
+    height: 100vh;
+    display: flex;
+    justify-content: space-between;
+    padding: 120px 20px;
+}
+
+.corpo {
+    background-image: url("https://i.pinimg.com/originals/99/80/81/99808176dbc8f7566085e22cb5ac25eb.gif") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    background-color: black;
+}
+
+.cabecalho{
+    display: flex;
+    background-color: rgba(1, 0, 2, 0.418);  
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 50px;
+    color: white;
+    width: 100%;
+}
+
+
+.cabecalho_itens{
+    display: flex;
+    gap: 30px;
+}
+
+
+.cabecalho_lista{
+    list-style: none;
+    display: flex;
+    gap: 50px;
+    font-size: 30px;
+    font-family: "Jacquard 24", system-ui;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 30px;
+}
+
+.cursos{
+    color: white;
+}
+
+.info{
+    color: white;
+}
+
+.curriculo{
+    color: white;
+    font-size: 30px;
+    font-family: "Jacquard 24", system-ui;
+}
+
+.box_1 {
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+
+.box_sub{
+    background-color: rgba(0, 0, 0, 0.479);
+    width: 500px ;
+    padding: 100px;
+    border-radius: 40px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 15px;
+    display: flex;
+    margin-bottom: 30rem;
+}
+
+.cursos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+
+.nome{
+    font-family: "Jacquard 24", system-ui;
+    color: white;
+    font-size: 50px;
+}
+
+.dev{
+    font-family: "Jacquard 24", system-ui;
+    color: white;
+    font-size: 30px;
+}
+
+.dev_2{
+    font-family: "Jacquard 24", system-ui;
+    color: white;   
+    font-size: 18px;
+}
+
+.box_2{
+    display: flex;
+}
+
+.box_3{
+    background-color: rgba(0, 0, 0, 0.479);
+    width: 800px ;
+    height: 350px;
+    border-radius: 40px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 15px;
+    display: flex;
+    margin-bottom: 30rem;
+}
+
+.box_sub_3{
+    display:flex ;
+    flex-direction: column;
+    align-items: center;
+    height: 100px;
+
+}
+
+
+.footer_0{
+    display: flex;
+    padding: 10px 20px;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+    color: white;
+    font-family: "Jacquard 24", system-ui;
+    font-size: 15px;
+}
+
+.box_4{
+    background-color: rgba(0, 0, 0, 0.479);
+    width: 800px ;
+    height: 350px;
+    border-radius: 40px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 15px;
+    display: flex;
+    margin-bottom: 30rem;
+}
+
+.box_sub_4{
+    display:flex ;
+    flex-direction: column;
+    align-items: center;
+    height: 100px;
+
+}
+
+.info_pes{
+    font-family: "Jacquard 24", system-ui;
+    color: white;
+    font-size: 30px;
+    padding-bottom: 80px;
+}
+
+.text_1{
+    font-family: "Jacquard 24", system-ui;
+    color: white;
+    font-size: 18px;
+}
+
+.text_2{
+    font-family: "Jacquard 24", system-ui;
+    color: white;
+    font-size: 18px;
+}
+
+.curso_form{
+    font-family: "Jacquard 24", system-ui;
+    color: white;
+    font-size: 30px;
+    padding-bottom: 80px;
+}
+
+.text_3{
+    font-family: "Jacquard 24", system-ui;
+    color: white;
+    font-size: 18px;
+}
+
+.text_4{
+    font-family: "Jacquard 24", system-ui;
+    color: white;
+    font-size: 18px;
+}
+
+.text_5{
+    font-family: "Jacquard 24", system-ui;
+    color: white;
+    font-size: 18px;
+}
